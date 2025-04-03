@@ -1,5 +1,5 @@
 # Mi presentacion :)
-####  Nombre: Lucas Fajardo
+####  Nombre: Lucas Fajardo Olmos
 #### Legajo: 2035972
 
 ------------
